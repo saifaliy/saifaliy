@@ -1,6 +1,7 @@
 <div align="center">
   
-# Hello Dosto 👋
+# Asslam o Alaikum EveryOne 👋
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+MERN+Developer;Flutter+Mobile+App+Developer;Software+Engineer;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
